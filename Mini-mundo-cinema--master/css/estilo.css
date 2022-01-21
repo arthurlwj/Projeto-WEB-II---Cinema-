@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+h1{
+    color: #db040f;
+}
+
+.title{
+    left: 150px;
+    text-align: center;
+}

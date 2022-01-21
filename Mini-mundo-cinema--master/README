@@ -1,0 +1,20 @@
+Projeto feito por Arthur Bezerra de Brito e Rackel Maria
+
+Projeto do mini mundo cinema
+
+Algumas observações:
+
+1 - Acabei não criando uma pasta para colocar todos os HTML, quando terminei tudo que me dei conta, e como já estava Projeto
+da entrega, não deu para colocar em pastas e mudar os caminhos, consequentemente
+
+2 - Temos duas principais telas que vão dar início a navegação pelo site do cinema: [tela_login.html] e [tela_cadastro.html] então recomendo o senhor começar 
+por elas
+
+3 - Todo o salvamento dos dados do usuário para entrada vão ficar salvo no localStorage, então ao se cadastrar, ficará salvo lá para que possa entrar com 
+o login e senha
+
+4 - Criei um documento a parte para a reserva de cinema. 
+
+Qualquer dúvida, peço que entre em contato pelo seguinte e-mail: arthurlwj@gmail.com
+
+
